@@ -1,0 +1,7 @@
+Métrica,Média_Geral,Desvio_Padrão
+Precision,0.9932,0.018
+Recall,0.987,0.0344
+F1_Score,0.99,0.0264
+Mean_BBox_IoU,0.8788,0.0242
+Dice_Pixel,0.9358,0.0102
+Pixel_IoU,0.8795,0.0181

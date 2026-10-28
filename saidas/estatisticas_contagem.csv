@@ -1,0 +1,4 @@
+Grupo,Total_Imagens,MAE_Contagem,Erro_Relativo_Medio_%,Max_Erro_Absoluto,Acuracia_Exata_%
+Geral (21 Imagens),21,0.1905,0.8,1,80.95
+Desenvolvimento (14 Imagens),14,0.2857,1.2,1,71.43
+Generalização (7 Imagens),7,0.0,0.0,0,100.0
